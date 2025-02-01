@@ -1,6 +1,6 @@
 # Habit Tracker Web App
 
-Welcome to the Habit Tracker web app! This application allows you to track your habits, set their frequency, and view your stats such as streaks and percentage of work done.
+Welcome to the Habit Tracker web app! This application allows you to track your habits, set their frequency, and view your stats such as streaks and percentage of work done. You can checkout the web app on: https://habit-tracker-two-taupe.vercel.app/
 
 ## Features
 
@@ -14,25 +14,24 @@ Welcome to the Habit Tracker web app! This application allows you to track your 
 
 To get started with the Habit Tracker web app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/habit-tracker.git`
+1. Clone the repository: `git clone https://github.com/AnoopVL/habit-tracker.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open the app in your browser: `http://localhost:5173`
 
 ## Technologies Used
 
-- Front-end: React.js, HTML, CSS
-- Back-end: Node.js, Express.js
-- Database: MongoDB
+- React.js, Tailwind, Supabase
+
+
+## Screenshots
+![Dashboard](Habit-tracker-ss.png)
+
+![Auth](auth-ss.png)
+
 
 ## Contributing
 
 Contributions are welcome! If you have any ideas or improvements for the app, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions or need further assistance, please feel free to contact us at [email protected]
